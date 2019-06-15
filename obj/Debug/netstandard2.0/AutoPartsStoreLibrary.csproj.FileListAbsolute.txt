@@ -1,0 +1,9 @@
+D:\Work\AutoPartsStoreLibrary\bin\Debug\netstandard2.0\AutoPartsStoreLibrary.deps.json
+D:\Work\AutoPartsStoreLibrary\bin\Debug\netstandard2.0\AutoPartsStoreLibrary.dll
+D:\Work\AutoPartsStoreLibrary\bin\Debug\netstandard2.0\AutoPartsStoreLibrary.pdb
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.csprojAssemblyReference.cache
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.csproj.CoreCompileInputs.cache
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.AssemblyInfoInputs.cache
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.AssemblyInfo.cs
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.dll
+D:\Work\AutoPartsStoreLibrary\obj\Debug\netstandard2.0\AutoPartsStoreLibrary.pdb
