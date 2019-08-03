@@ -4,7 +4,7 @@ using System.Linq;
 using AutoPartsStore;
 using Microsoft.EntityFrameworkCore;
 
-namespace KonstProgKyrsach {
+namespace AutoPartsStoreLibrary {
     public interface IRepository<T> {
         T GetByID (int Id);
         T AddPart (T model);
