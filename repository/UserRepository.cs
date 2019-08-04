@@ -5,19 +5,19 @@ using AutoPartsStore;
 using Microsoft.EntityFrameworkCore;
 
 namespace AutoPartsStoreLibrary {
-    public interface IUserRepository : IRepository<User> {
+    //public interface IUserRepository : IRepository<User> {
 
-    }
+    //}
 
-    public class UserRepository : IUserRepository, Repository<User> {
+    //public class UserRepository : IUserRepository, Repository<User> {
 
 
-    }
+    //}
 
-    public class qwe {
-        public void qwer(){
-            IUserRepository rep = new UserRepository();
+    //public class qwe {
+    //    public void qwer(){
+    //        IUserRepository rep = new UserRepository();
             
-        }
-    }
+    //    }
+    //}
 }

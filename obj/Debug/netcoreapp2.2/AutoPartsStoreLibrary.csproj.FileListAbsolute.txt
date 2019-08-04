@@ -1,0 +1,11 @@
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.csprojAssemblyReference.cache
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.csproj.CoreCompileInputs.cache
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.AssemblyInfoInputs.cache
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.AssemblyInfo.cs
+D:\coding\AutoPartsStoreLibrary\bin\Debug\netcoreapp2.2\AutoPartsStoreLibrary.deps.json
+D:\coding\AutoPartsStoreLibrary\bin\Debug\netcoreapp2.2\AutoPartsStoreLibrary.runtimeconfig.json
+D:\coding\AutoPartsStoreLibrary\bin\Debug\netcoreapp2.2\AutoPartsStoreLibrary.runtimeconfig.dev.json
+D:\coding\AutoPartsStoreLibrary\bin\Debug\netcoreapp2.2\AutoPartsStoreLibrary.dll
+D:\coding\AutoPartsStoreLibrary\bin\Debug\netcoreapp2.2\AutoPartsStoreLibrary.pdb
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.dll
+D:\coding\AutoPartsStoreLibrary\obj\Debug\netcoreapp2.2\AutoPartsStoreLibrary.pdb

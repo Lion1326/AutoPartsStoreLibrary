@@ -10,6 +10,7 @@ namespace AutoPartsStore {
             //     .AddJsonFile("appsettings.json")
             //     .Build();
             // optionsBuilder.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+            optionsBuilder.UseSqlServer(@"Server=DESKTOP-IAMIJFQ\MSSQL2017;Database=AutoStore;Trusted_Connection=True;");
         }
     }
 }
